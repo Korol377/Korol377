@@ -4,6 +4,5 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, Python</code>
 <code>📦 Tech stack: HTML/CSS, React, Redux, MySQL PostgreSQL, MongoDB</code>
-<code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@Buster_Keatonn](https://telegram.me/Buster_Keatonn)</code>
 <code>📫 [bogdan.korolevych2002@gmail.com](mailto:bogdan.korolevych2002@gmail.com)</code>
